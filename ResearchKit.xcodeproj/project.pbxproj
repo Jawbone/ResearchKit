@@ -3106,8 +3106,8 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
+				SWIFT_VERSION = 2.3;
 				TARGETED_DEVICE_FAMILY = 1;
-				TOOLCHAINS = default;
 			};
 			name = Debug;
 		};
@@ -3137,8 +3137,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				SDKROOT = iphoneos;
+				SWIFT_VERSION = 2.3;
 				TARGETED_DEVICE_FAMILY = 1;
-				TOOLCHAINS = default;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
